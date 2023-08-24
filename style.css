@@ -1,0 +1,31 @@
+body{
+    box-sizing: border-box;
+    height: 100vh;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+    text-align: center;
+    margin: 80px;
+}
+
+#score-card{
+    display: flex;
+    justify-content: space-around;
+}
+
+.player,
+.computer {
+    display: flex;
+    flex-direction: column;
+}
+
+#score-card .vs{
+    justify-self: center;
+}
+
+#choices{
+    display: flex;
+    justify-content: space-evenly;
+}
+button{
+    padding: 8px 12px;
+}
