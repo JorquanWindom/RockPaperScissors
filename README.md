@@ -1,5 +1,4 @@
 # RockPaperScissors
-Live Preview - https://jorquanwindom.github.io/RockPaperScissors/
 This project is Rock Paper Scissors. It was created using JavaScript. The user plays against the computer.
 
 How to Play -
@@ -14,3 +13,4 @@ Paper beats Rock,
 Rock beats Scissors,
 Scissors beats Paper, and 
 if both players choose the same option the game is a tie.
+Live Preview - https://jorquanwindom.github.io/RockPaperScissors/
