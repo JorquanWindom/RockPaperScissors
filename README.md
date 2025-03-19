@@ -1,4 +1,5 @@
 # RockPaperScissors
+Live Preview - https://jorquanwindom.github.io/RockPaperScissors/
 This project is Rock Paper Scissors. It was created using JavaScript. The user plays against the computer.
 
 How to Play -
